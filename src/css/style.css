@@ -1,0 +1,32 @@
+.header {
+    padding: 0;
+}
+
+.header-container {
+    background-color: rebeccapurple;
+}
+
+.nav-bar {
+    background-color: aliceblue;
+    padding: 5px;
+    display: inline-flex;
+    gap: 30px;
+}
+
+.nav-bar .logo {
+    height: 40px;
+    width: 40px;
+}
+
+.nav-bar ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar li {
+    position: relative;
+    padding: 4px;
+}
