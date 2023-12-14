@@ -18,6 +18,9 @@ const Header = (id) => {
                 </ul>
             </nav>
         </div>
+        <div className="carousel">
+
+        </div>
     </header>
 }
 
